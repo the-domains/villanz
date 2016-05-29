@@ -1,0 +1,28 @@
+name: villanz
+favicon: null
+layout_spectrum: 0.8158826918806881
+typography_spectrum: 0.20929925446398556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7150646119844168
+  lightness: 0.5420205595437437
+  saturation: 0.5909739087801427
+  rhythmicContrast: 0.39051225734874606
+purpose: []
